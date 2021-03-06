@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss"],"names":[],"mappings":"AAAA,IAAI,CAAC;EACD,UAAU,EAAE,OAAc,GAC7B;;AAED,EAAE,CAAC;EACC,KAAK,EAAE,IAAI,GACd","file":"../bundle.css","sourcesContent":["body {\r\n    background: rgb(78, 1, 68);\r\n}\r\n\r\nh1 {\r\n    color: #fff;\r\n}"]}
